@@ -1,0 +1,10 @@
+var x=9;
+var y=27;
+var a=x+y;
+console.log(a);
+var b=x-y;
+console.log(b);
+var c=x*y;
+console.log(c);
+var d=x/y;
+console.log(d);
